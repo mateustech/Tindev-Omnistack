@@ -11,4 +11,4 @@ Axios
 Cors
 
 *Base de dados*
-Mongo DB Atlas
+Mongo DB Atlas / Compass
